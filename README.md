@@ -27,16 +27,16 @@ In data visualization, the geospatial layout and bimodel network were created by
 Code used to compute the number of cells per cell type per organ is available at https://github.com/hubmapconsortium/tissue-bar-graphs. 
 
 ## Data
-* `33_organs.csv` : contains the 33 organs planned for the next HRA release.
+* `33_organs.csv` contains the 33 organs planned for the next HRA release.
 
-* `Grant_agencies.csv` : contains the funding agencies which support papers tagged with 33 HRA specific organ tags in 2018-2022 publication year, selected from WoS core collections.
+* `Grant_agencies.csv` contains the funding agencies which support papers tagged with 33 HRA specific organ tags in 2018-2022 publication year, selected from WoS core collections.
 
-* `experimental_data_references.csv` : contains experimental data references, including data, data sources, paper DOIs and organs.
+* `experimental_data_references.csv` contains experimental data references, including data, data sources, paper DOIs and organs.
 
-* `Count of unique papers associated with experimental data per organ.csv` : contains count of unique papers associated with experimental data per organ.  Experimental datasets cover 57 organs; for 19 of these there exist ASCT+B tables. Note that PBMC corresponds to the Blood ASCT+B table, and several papers are listed for multiple organs, e.g., paper titled “Tabula Sapiens: An Atlas of Single-Cell Gene Expression” is cited for 34 organs.
+* `Count of unique papers associated with experimental data per organ.csv` contains count of unique papers associated with experimental data per organ.  Experimental datasets cover 57 organs; for 19 of these there exist ASCT+B tables. Note that PBMC corresponds to the Blood ASCT+B table, and several papers are listed for multiple organs, e.g., paper titled “Tabula Sapiens: An Atlas of Single-Cell Gene Expression” is cited for 34 organs.
 
-* `HRA_XML`: contains released information for HRA (in XML format), collected from HuBMAP CCF PORTAL https://hubmapconsortium.github.io/ccf/index.html 
-Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
+* `HRA_XML` contains released information for HRA (in XML format), collected from [HuBMAP CCF PORTAL](https://hubmapconsortium.github.io/ccf/index.html)
+ Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
   * `2D Reference Functional Tissue Unit (FTU) Library`
   * `3D Reference Object Library`
   * `Organ Mapping Antibody Panels (OMAPs)`
