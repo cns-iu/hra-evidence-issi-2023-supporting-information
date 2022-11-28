@@ -6,10 +6,11 @@ This repository provides easy access to data and code used in the study.
 
 It is structured in the following way:
 * code
-  * author_per_paper.sql
-  * clean_funding_name.py
-  * count_grant_agencies_per_organ.sql
-  * country_per_paper.sql
+  * wos data queries and data processing
+    * author_per_paper.sql
+    * clean_funding_name.py
+    * count_grant_agencies_per_organ.sql
+    * country_per_paper.sql
 * data
   * 33_organs.csv
   * grant_agencies.csv
