@@ -44,16 +44,16 @@ Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
 ## Data Sources
 Web of Science data was retrieved from [CADRE](https://cadre.iu.edu/about-cadre).
 
-Human Reference Atlas data was retrieved from the CCF Portal. 
+Human Reference Atlas data was retrieved from the [CCF Portal](https://hubmapconsortium.github.io/ccf/). 
 
-Azimuth publication data and experimental data were downloaded from the Azimuth portal.
+Azimuth publication data and experimental data were downloaded from the [Azimuth portal](https://azimuth.hubmapconsortium.org).
 
-Experimental data was retrieved from HuBMAP Portal, CxG Portal, NeMO, and GTEx. 
+Experimental data was retrieved from [HuBMAP Portal](https://portal.hubmapconsortium.org), [CxG Portal](https://cellxgene.cziscience.com), [NeMO](https://nemoarchive.org), and [GTEx](https://gtexportal.org). 
 
 ## Licenses
-All code used here is MIT licensed.
+All code used here is [MIT licensed](https://opensource.org/licenses/MIT).
 
-The Human Reference Atlas data is CC-BY 4.0 licensed. 
+The Human Reference Atlas data is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensed. 
 
 ## Credits
 Kong is funded by the China Scholarship Council. The Human Reference Atlas is research has been funded by the NIH Common Fund through the Office of Strategic Coordination/Office of the NIH Director under awards OT2OD033756 and OT2OD026671, by the Cellular Senescence Network (SenNet) Consortium through the Consortium Organization and Data Coordinating Center (CODCC) under award number U24CA268108, and by the NIDDK Kidney Precision Medicine Project grant U2CDK114886.
