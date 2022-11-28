@@ -1,0 +1,542 @@
+data ,data source,Paper DOI,Organ
+Adipose_Azimuth,Azimuth,10.1038/s42255-019-0152-6,Adipose
+Adipose_Azimuth,Azimuth,10.1038/s42255-019-0152-6,Adipose
+Adrenal_Gland_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Adrenal Gland
+Anterior_Part_Of_Tongue_CxG_Portal,CxG,10.1002/ajmg.a.61700,Anterior part of tongue
+Blood_CxG_Portal,CxG,10.1016/j.copbio.2021.10.025,Blood
+Blood_CxG_Portal,CxG,10.1016/j.cell.2021.02.018,Blood
+Blood_CxG_Portal,CxG,10.1101/2020.10.29.360479,Blood
+Blood_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Blood
+Blood_CxG_Portal,CxG,10.1126/sciimmunol.abd1554,Blood
+Blood_CxG_Portal,CxG,10.1038/s41592-020-0825-9,Blood
+Blood_CxG_Portal,CxG,10.1038/s41591-020-01159-8,Blood
+Blood_CxG_Portal,CxG,10.1002/9783527678679.dg11555,Blood
+Blood_CxG_Portal,CxG,10.17504/protocols.io.kdycs7w,Blood
+Blood_CxG_Portal,CxG,10.47191/ijcsrr/v3-i10-03,Blood
+Blood_CxG_Portal,CxG,10.1016/j.cell.2021.02.018,Blood
+Blood_CxG_Portal,CxG,10.3390/biomedicines9121794,Blood
+Blood_CxG_Portal,CxG,10.1055/a-1229-5048,Blood
+Blood_CxG_Portal,CxG,10.1101/2021.05.10.443350,Blood
+Blood_CxG_Portal,CxG,10.1038/s41423-021-00825-2,Blood
+Blood_CxG_Portal,CxG,10.1177/102425890601200321,Blood
+Blood_CxG_Portal,CxG,10.1126/science.abf3041,Blood
+Blood_CxG_Portal,CxG,10.1038/s41591-020-01159-8,Blood
+Blood_CxG_Portal,CxG,10.1002/ajmg.a.61700,Blood
+Blood_CxG_Portal,CxG,10.1038/s41591-021-01329-2,Blood
+Blood_Vasculature_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Blood Vasculature
+Blood_Vasculature_CxG_Portal,CxG,10.1179/jpt.1997.7.1.011,Blood Vasculature
+Blood_Vasculature_CxG_Portal,CxG,10.1002/ajmg.a.61700,Blood Vasculature
+Bone_Marrow_Azimuth,Azimuth,10.1172/jci.insight.124928,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,10.1038/s41587-019-0332-7,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,10.1016/j.cell.2021.04.048,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,10.1172/jci.insight.124928,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,10.1038/s41587-019-0332-7,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,,Bone Marrow
+Bone_Marrow_Azimuth,Azimuth,10.1016/j.cell.2021.04.048,Bone Marrow
+Bone_Marrow_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Bone Marrow
+Bone_Marrow_CxG_Portal,CxG,10.1177/102425890601200321,Bone Marrow
+Bone_Marrow_CxG_Portal,CxG,10.1002/ajmg.a.61700,Bone Marrow
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1364/hisense.2009.htuc3,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1201/9780203507483,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1101/2020.05.11.088591,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1002/0471684228.egp00471,Brain
+Brain_CxG_Portal,CxG,10.1101/2020.05.11.088591,Brain
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Brain_Motor_Cortex_NeMO_Data_Portal,NeMO,,Brain Motor Cortex
+Breast_GTEx_Portal,GTEx,,Breast
+Breast_GTEx_Portal,GTEx,,Breast
+Breast_GTEx_Portal,GTEx,,Breast
+Bronchopulmonary_Lymph_Node_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Bronchopulmonary Lymph
+Cervical_Lymph_Node_CxG_Portal,CxG,10.3389/fcvm.2020.00052,Cervical Lymph
+Colon_Gut_Cell_Atlas,Cell Atlas,,Colon Gut
+Colon_Gut_Cell_Atlas,Cell Atlas,,Colon Gut
+Colon_Gut_Cell_Atlas,Cell Atlas,,Colon Gut
+Colon_Gut_Cell_Atlas,Cell Atlas,,Colon Gut
+Colon_Gut_Cell_Atlas,Cell Atlas,,Colon Gut
+Endothelial_Cell_(Cell_Culture)_CxG_Portal,CxG,10.1101/2020.10.05.314039,Endothelial Cell
+Epithelial_Cell_Of_Lung_(Cell_Culture)_CxG_Portal,CxG,10.1101/2020.05.05.079194,Epithelial Cell of Lung
+Epithelial_Cell_Of_Lung_(Cell_Culture)_CxG_Portal,CxG,10.1101/2020.05.05.079194,Epithelial Cell of Lung
+Epithelium_Of_Esophagus_CxG_Portal,CxG,10.1097/00000478-200111000-00020,Epithelium of Esophagus
+Esophagus_Mucosa_GTEx_Portal,GTEx,,Esophagus Mucosa
+Esophagus_Mucosa_GTEx_Portal,GTEx,,Esophagus Mucosa
+Esophagus_Mucosa_GTEx_Portal,GTEx,,Esophagus Mucosa
+Esophagus_Muscularis_GTEx_Portal,GTEx,,Esophagus Muscularis
+Esophagus_Muscularis_GTEx_Portal,GTEx,,Esophagus Muscularis
+Esophagus_Muscularis_GTEx_Portal,GTEx,,Esophagus Muscularis
+Eye_CxG_Portal,CxG,10.3389/fneur.2021.636330,Eye
+Eye_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Eye
+Eye_CxG_Portal,CxG,10.1109/camp.1993.622469,Eye
+Eye_CxG_Portal,CxG,10.1002/ajmg.a.61700,Eye
+Eye_CxG_Portal,CxG,10.1126/science.2449732,Eye
+Fallopian_Tube_CxG_Portal,CxG,10.1016/j.devcel.2022.02.017,Fallopian Tube
+Fallopian_Tube_CxG_Portal,CxG,10.1016/j.devcel.2022.02.017,Fallopian Tube
+Fallopian_Tube_CxG_Portal,CxG,10.1016/j.devcel.2022.02.017,Fallopian Tube
+Fallopian_Tube_CxG_Portal,CxG,10.1016/j.devcel.2022.02.017,Fallopian Tube
+Heart_Azimuth,Azimuth,10.1126/sciadv.abf1444,Heart
+Heart_Azimuth,Azimuth,10.1038/s44161-022-00028-6,Heart
+Heart_Azimuth,Azimuth,10.1038/s41586-020-2797-4,Heart
+Heart_Azimuth,Azimuth,10.1126/sciadv.abf1444,Heart
+Heart_Azimuth,Azimuth,10.1038/s44161-022-00028-6,Heart
+Heart_Azimuth,Azimuth,10.1038/s41586-020-2797-4,Heart
+Heart_CxG_Portal,CxG,10.1038/s41586-020-2797-4,Heart
+Heart_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Heart
+Heart_CxG_Portal,CxG,10.1002/ajmg.a.61700,Heart
+Heart_GTEx_Portal,GTEx,,Heart
+Heart_GTEx_Portal,GTEx,,Heart
+Heart_GTEx_Portal,GTEx,,Heart
+Inguinal_Lymph_Node_CxG_Portal,CxG,10.1002/ajmg.a.61700,Inguinal Lymph
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Intestine
+Kidney_Azimuth,Azimuth,,Kidney
+Kidney_Azimuth,Azimuth,10.1126/science.aat5031,Kidney
+Kidney_Azimuth,Azimuth,,Kidney
+Kidney_Azimuth,Azimuth,10.1126/science.aat5031,Kidney
+Kidney_Azimuth,Azimuth,,Kidney
+Kidney_Azimuth,Azimuth,10.1126/science.aat5031,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake,Blue Lake,,Kidney
+Kidney_Blue_Lake_Richard,Blue Lake,,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/ju.0000000000002516.11,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/ju.0000000000002516.11,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1179/jpt.1997.7.1.011,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1002/ajmg.a.61700,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1093/med/9780198713333.003.0007,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/ju.0000000000002516.11,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_CxG_Portal,CxG,10.1097/mnh.0000000000000781,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Kidney_HuBMAP_Portal,HuBMAP,,Kidney
+Large_Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Large Intestine
+Large_Intestine_CxG_Portal,CxG,10.1177/102425890601200321,Large Intestine
+Large_Intestine_CxG_Portal,CxG,10.1016/j.cell.2020.12.016,Large Intestine
+Large_Intestine_CxG_Portal,CxG,10.1002/ajmg.a.61700,Large Intestine
+Liver_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Liver
+Liver_CxG_Portal,CxG,10.1177/102425890601200321,Liver
+Liver_CxG_Portal,CxG,10.1002/ajmg.a.61700,Liver
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_Azimuth,Azimuth,10.1038/s41586-020-2922-4,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201806-1037ED,Lung
+Lung_Azimuth,Azimuth,10.1038/s41467-020-16239-z,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.1161/CIRCULATIONAHA.120.052318,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC%C2%A0,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1186/s13059-019-1906-x,Lung
+Lung_Azimuth,Azimuth,10.1038/s41591-019-0468-5,Lung
+Lung_Azimuth,Azimuth,10.1101/2021.07.19.452956,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1983,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201911-2199OC,Lung
+Lung_Azimuth,Azimuth,10.1126/sciadv.aba1972,Lung
+Lung_Azimuth,Azimuth,10.15252/embj.20105114,Lung
+Lung_Azimuth,Azimuth,10.15252/emmm.202012871,Lung
+Lung_Azimuth,Azimuth,10.1183/13993003.02441-2018,Lung
+Lung_Azimuth,Azimuth,10.1164/rccm.201712-2410OC,Lung
+Lung_CxG_Portal,CxG,10.1016/j.copbio.2021.10.025,Lung
+Lung_CxG_Portal,CxG,10.1007/978-1-4471-3137-3_5,Lung
+Lung_CxG_Portal,CxG,10.1101/2020.10.05.314039,Lung
+Lung_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Lung
+Lung_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Lung
+Lung_CxG_Portal,CxG,10.7554/elife.62522,Lung
+Lung_CxG_Portal,CxG,10.1242/prelights.20637,Lung
+Lung_CxG_Portal,CxG,10.1177/102425890601200321,Lung
+Lung_CxG_Portal,CxG,10.1002/ajmg.a.61700,Lung
+Lung_CxG_Portal,CxG,10.1101/2020.07.28.226092,Lung
+Lung_GTEx_Portal,GTEx,,Lung
+Lung_GTEx_Portal,GTEx,,Lung
+Lung_GTEx_Portal,GTEx,,Lung
+Lymph_Node_CxG_Portal,CxG,10.1177/102425890601200321,Lymph
+Lymph_Node_HuBMAP_Portal,HuBMAP,,Lymph
+Lymph_Node_HuBMAP_Portal,HuBMAP,,Lymph
+Mammary_Gland_CxG_Portal,CxG,10.1002/ajmg.a.61700,Mammary Gland
+Mesenteric_Lymph_Node_CxG_Portal,CxG,10.1038/s41467-019-12464-3,Mesenteric Lymph
+Mesenteric_Lymph_Node_CxG_Portal,CxG,10.1182/blood-2019-129445,Mesenteric Lymph
+Mesenteric_Lymph_Node_CxG_Portal,CxG,10.1002/ajmg.a.61700,Mesenteric Lymph
+Motor_Cortex_Azimuth,Azimuth,10.1038/s41586-021-03465-8,Motor Cortex
+Motor_Cortex_Azimuth,Azimuth,10.1038/s41586-021-03465-8,Motor Cortex
+Motor_Cortex_Azimuth,Azimuth,10.1038/s41586-021-03465-8,Motor Cortex
+Motor_Cortex_Azimuth,Azimuth,10.1038/s41586-021-03465-8,Motor Cortex
+Muscle_Of_Abdomen_CxG_Portal,CxG,10.1002/ajmg.a.61700,Muscle of Abdomen
+Muscle_Of_Pelvic_Diaphragm_CxG_Portal,CxG,10.1002/ajmg.a.61700,Muscle of Pelvic Diaphragm
+Muscle_Organ_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Muscle
+Muscle_Tissue_CxG_Portal,CxG,10.1002/ajmg.a.61700,Muscle
+Omentum_CxG_Portal,CxG,10.1177/102425890601200321,Omentum
+Pancreas_Azimuth,Azimuth,10.1038/nature14966,Pancreas
+Pancreas_Azimuth,Azimuth,10.1016/j.cels.2016.09.002,Pancreas
+Pancreas_Azimuth,Azimuth,10.1016/j.cmet.2016.08.020,Pancreas
+Pancreas_Azimuth,Azimuth,https://pubmed.ncbi.nlm.nih.gov/27864352/,Pancreas
+Pancreas_Azimuth,Azimuth,10.1016/j.cels.2016.08.011,Pancreas
+Pancreas_Azimuth,Azimuth,10.3791/59866,Pancreas
+Pancreas_Azimuth,Azimuth,10.1016/j.cell.2017.09.004,Pancreas
+Pancreas_CxG_Portal,CxG,10.1101/2021.01.28.428598,Pancreas
+Pancreas_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Pancreas
+Pancreas_CxG_Portal,CxG,10.1016/j.cels.2016.09.002,Pancreas
+Pancreas_CxG_Portal,CxG,10.1016/j.cell.2017.09.004,Pancreas
+Pancreas_CxG_Portal,CxG,10.1002/ajmg.a.61700,Pancreas
+Parotid_Gland_CxG_Portal,CxG,10.1002/ajmg.a.61700,Parotid Gland
+Parotid_Gland_CxG_Portal,CxG,10.1002/ajmg.a.61700,Parotid Gland
+PBMC_Azimuth,Azimuth,10.1016/j.cell.2021.04.048,PBMC
+PBMC_Azimuth,Azimuth,,PBMC
+PBMC_Azimuth,Azimuth,10.1016/j.cell.2021.04.048,PBMC
+PBMC_Azimuth,Azimuth,,PBMC
+PBMC_Azimuth,Azimuth,10.1016/j.cell.2021.04.048,PBMC
+PBMC_Azimuth,Azimuth,,PBMC
+Placenta_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Placenta
+Posterior_Part_Of_Tongue_CxG_Portal,CxG,10.1002/ajmg.a.61700,Posterior Part of Tongue
+Prostate_CxG_Portal,CxG,10.1016/j.celrep.2018.11.086,Prostate
+Prostate_CxG_Portal,CxG,10.1016/j.celrep.2018.11.086,Prostate
+Prostate_CxG_Portal,CxG,10.1002/path.5751,Prostate
+Prostate_CxG_Portal,CxG,10.1002/pros.24020,Prostate
+Prostate_CxG_Portal,CxG,10.1002/ajmg.a.61700,Prostate
+Prostate_CxG_Portal,CxG,10.1016/j.celrep.2018.11.086,Prostate
+Prostate_CxG_Portal,CxG,10.1002/pros.24020,Prostate
+Prostate_GTEx_Portal,GTEx,,Prostate
+Prostate_GTEx_Portal,GTEx,,Prostate
+Prostate_GTEx_Portal,GTEx,,Prostate
+Prostate_GTEx_Portal,GTEx,,Prostate
+Rectus_Abdominis_Muscle_CxG_Portal,CxG,10.1002/ajmg.a.61700,Rectus Abdomins Muscle
+Respiratory_System_CxG_Portal,CxG,10.1002/ajmg.a.61700,Respiratory System
+Saliva-Secreting_Gland_CxG_Portal,CxG,10.1002/ajmg.a.61700,Saliva-Secreting Gland
+Skeletal_Muscle_GTEx_Portal,GTEx,,Skeletal Muscle
+Skeletal_Muscle_GTEx_Portal,GTEx,,Skeletal Muscle
+Skeletal_Muscle_GTEx_Portal,GTEx,,Skeletal Muscle
+Skeletal_Muscle_Tissue_CxG_Portal,CxG,10.1177/102425890601200321,Skeletal Muscle
+Skin_CxG_Portal,CxG,10.1002/ajmg.a.61700,Skin
+Skin_GTEx_Portal,GTEx,,Skin
+Skin_GTEx_Portal,GTEx,,Skin
+Skin_GTEx_Portal,GTEx,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Skin_Soumya_et_al__paper,Soumya et al,,Skin
+Small_Intestine_CxG_Portal,CxG,10.1177/102425890601200321,Small Intestine
+Small_Intestine_CxG_Portal,CxG,10.1002/ajmg.a.61700,Small Intestine
+Spleen_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Spleen
+Spleen_CxG_Portal,CxG,10.1177/102425890601200321,Spleen
+Spleen_CxG_Portal,CxG,10.1002/ajmg.a.61700,Spleen
+Spleen_CxG_Portal,CxG,10.1007/978-1-4612-4878-1_14,Spleen
+Stomach_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Stomach
+Subcutaneous_Adipose_Tissue_CxG_Portal,CxG,10.1002/ajmg.a.61700,Subcutaneous Adipose
+Submandibular_Gland_CxG_Portal,CxG,10.1002/ajmg.a.61700,Submandibular Gland
+Thoracic_Lymph_Node_CxG_Portal,CxG,10.1177/102425890601200321,Thoracic
+Thymus_CxG_Portal,CxG,10.1016/j.reprotox.2018.07.014,Thymus
+Thymus_CxG_Portal,CxG,10.1177/102425890601200321,Thymus
+Thymus_CxG_Portal,CxG,10.1002/ajmg.a.61700,Thymus
+Tongue_CxG_Portal,CxG,10.1002/ajmg.a.61700,Tongue
+Tonsil_Azimuth,Azimuth,,Tonsil
+Tonsil_Azimuth,Azimuth,10.1126/sciimmunol.abh3768,Tonsil
+Tonsil_Azimuth,Azimuth,,Tonsil
+Tonsil_Azimuth,Azimuth,10.1126/sciimmunol.abh3768,Tonsil
+Urinary_Bladder_CxG_Portal,CxG,10.1002/ajmg.a.61700,Urinary Bladder
+Uterus_CxG_Portal,CxG,10.1002/ajmg.a.61700,Uterus
+Vasculature_CxG_Portal,CxG,10.1002/ajmg.a.61700,Vasculature

@@ -1,0 +1,59 @@
+Organ,#Papers,Papers with DOIs,DOIs not cited in HRA or Azimuth
+Adipose,1,1,0
+Adrenal Gland,1,1,1
+Anterior Part of Tongue,1,1,1
+Blood,18,18,17
+Blood Vasculature,3,3,2
+Bone Marrow,6,6,2
+Brain,5,5,5
+Brain Motor Cortex,0,0,0
+Breast,0,0,0
+Bronchopulmonary Lymph,1,1,0
+Cervical Lymph,1,1,0
+Colon Gut,0,0,0
+Endothelial Cell,1,1,1
+Epithelial Cell of Lung,1,1,1
+Epithelium of Esophagus,1,1,1
+Esophagus Mucosa,0,0,0
+Esophagus Muscularis,0,0,0
+Eye,5,5,5
+Fallopian Tube,1,1,1
+Heart,6,5,2
+Inguinal Lymph,1,1,1
+Intestine,2,2,2
+Kidney,8,7,6
+Large Intestine,3,3,3
+Liver,3,3,3
+Lung,25,25,9
+Lymph Node,1,1,1
+Mammary Gland,1,1,1
+Mesenteric Lymph,3,3,2
+Motor Cortex,1,1,0
+Muscle,2,2,2
+Muscle of Abdomen,1,1,1
+Muscle of Pelvic Diaphragm,1,1,1
+Omentum,1,1,1
+PBMC*,1,1,0
+Pancreas,12,10,3
+Parotid Gland,1,1,1
+Placenta,1,1,1
+Posterior Part of Tongue,1,1,1
+Prostate,4,4,3
+Rectus Abdomins Muscle,1,1,1
+Respiratory System,1,1,1
+Saliva-Secreting Gland,1,1,1
+Skeletal Muscle,1,1,1
+Skin,1,1,1
+Small Intestine,2,2,2
+Spleen,4,4,4
+Stomach,1,1,1
+Subcutaneous Adipose,1,1,1
+Submandibular Gland,1,1,1
+Thoracic,1,1,1
+Thymus,3,3,3
+Tongue,1,1,1
+Tonsil,2,1,0
+Urinary Bladder,1,1,1
+Uterus,1,1,1
+Vasculature,1,1,1
+Total across organs**,83,78,42
