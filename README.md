@@ -5,19 +5,19 @@ Experts from 17 consortia are collaborating on the Human Reference Atlas (HRA) w
 This repository provides easy access to data and code used in the study. 
 
 It is structured in the following way:
-* code
+* [code](https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information/tree/main/code)
   * wos data queries and data processing
     * [author_per_paper.sql](code/wos_data_queries_and_data_processing/author_per_paper.sql)
     * [clean_funding_name.py](code/wos_data_queries_and_data_processing/clean_funding_name.py)
     * [count_grant_agencies_per_organ.sql](code/wos_data_queries_and_data_processing/count_grant_agencies_per_organ.sql)
     * [country_per_paper.sql](code/wos_data_queries_and_data_processing/country_per_paper.sql)
   * vicky_code
-* data
+* [data](https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information/tree/main/data)
   * [33_organs.csv](data/33_organs.csv)
   * [grant_agencies.csv](data/grant_agencies.csv)
   * [experimental_data_references.csv](data/experimental_data_references.csv)
   * [Count_of_unique_papers_associated_with_experimental_data_per_organ.csv](data/Count_of_unique_papers_associated_with_experimental_data_per_organ.csv)
-  * [HRA_XML](data/HRA_XML)
+  * [HRA_XML](https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information/tree/main/data/HRA_XML)
 
 ## Code
 In data collection and data preprocessing, CSV data should be downloaded in `Data` and SQL data should be collected based on specific requirements. They should be put into corresponding folders. Use `Clean_funding_name.py` to preprocess funding agencies.
