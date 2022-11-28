@@ -35,8 +35,8 @@ Code used to compute the number of cells per cell type per organ is available at
 
 * `Count of unique papers associated with experimental data per organ.csv` : contains count of unique papers associated with experimental data per organ.  Experimental datasets cover 57 organs; for 19 of these there exist ASCT+B tables. Note that PBMC corresponds to the Blood ASCT+B table, and several papers are listed for multiple organs, e.g., paper titled “Tabula Sapiens: An Atlas of Single-Cell Gene Expression” is cited for 34 organs.
 
-* `HRA_XML`: contains released information for HRA (in XML format), collected from HuBMAP CCF PORTAL https://hubmapconsortium.github.io/ccf/index.html 
-Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
+* `HRA_XML`: contains released information for HRA (in XML format), collected from [HuBMAP CCF PORTAL](https://hubmapconsortium.github.io/ccf/index.html)
+ Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
   * `2D Reference Functional Tissue Unit (FTU) Library`
   * `3D Reference Object Library`
   * `Organ Mapping Antibody Panels (OMAPs)`
