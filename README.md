@@ -13,6 +13,7 @@ It is structured in the following way:
 * data
   * 33_organs.csv
   * grant_agencies.csv
+  * experimental_data_references.csv
   * Count of unique papers associated with experimental data per organ.csv
   * HRA_XML
 
@@ -30,6 +31,8 @@ Code used to compute the number of cells per cell type per organ is available at
 
 * `Grant_agencies.csv` : contains the funding agencies which support papers tagged with 33 HRA specific organ tags in 2018-2022 publication year, selected from WoS core collections.
 
+* `experimental_data_references.csv` : contains experimental data references, including data, data sources, paper DOIs and organs.
+
 * `Count of unique papers associated with experimental data per organ.csv` : contains count of unique papers associated with experimental data per organ.  Experimental datasets cover 57 organs; for 19 of these there exist ASCT+B tables. Note that PBMC corresponds to the Blood ASCT+B table, and several papers are listed for multiple organs, e.g., paper titled “Tabula Sapiens: An Atlas of Single-Cell Gene Expression” is cited for 34 organs.
 
 * `HRA_XML`: contains released information for HRA (in XML format), collected from HuBMAP CCF PORTAL https://hubmapconsortium.github.io/ccf/index.html 
@@ -39,18 +42,18 @@ Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
   * `Organ Mapping Antibody Panels (OMAPs)`
 
 ## Data Sources
-Web of Science data was retrieved from CADRE.
+Web of Science data was retrieved from [CADRE](https://cadre.iu.edu/about-cadre).
 
-Human Reference Atlas data was retrieved from the CCF Portal. 
+Human Reference Atlas data was retrieved from the [CCF Portal](https://hubmapconsortium.github.io/ccf/). 
 
-Azimuth publication data and experimental data were downloaded from the Azimuth portal.
+Azimuth publication data and experimental data were downloaded from the [Azimuth portal](https://azimuth.hubmapconsortium.org).
 
-Experimental data was retrieved from HuBMAP Portal, CxG Portal, NeMO, and GTEx. 
+Experimental data was retrieved from [HuBMAP Portal](https://portal.hubmapconsortium.org), [CxG Portal](https://cellxgene.cziscience.com), [NeMO](https://nemoarchive.org), and [GTEx](https://gtexportal.org). 
 
 ## Licenses
-All code used here is MIT licensed.
+All code used here is [MIT licensed](https://opensource.org/licenses/MIT).
 
-The Human Reference Atlas data is CC-BY 4.0 licensed. 
+The Human Reference Atlas data is [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensed. 
 
 ## Credits
 Kong is funded by the China Scholarship Council. The Human Reference Atlas is research has been funded by the NIH Common Fund through the Office of Strategic Coordination/Office of the NIH Director under awards OT2OD033756 and OT2OD026671, by the Cellular Senescence Network (SenNet) Consortium through the Consortium Organization and Data Coordinating Center (CODCC) under award number U24CA268108, and by the NIDDK Kidney Precision Medicine Project grant U2CDK114886.
