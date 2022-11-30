@@ -12,7 +12,7 @@ It is structured in the following way:
     * [count_grant_agencies_per_organ.sql](code/wos_data_queries_and_data_processing/count_grant_agencies_per_organ.sql)
     * [country_per_paper.sql](code/wos_data_queries_and_data_processing/country_per_paper.sql)
   * vicky_code
-    * [analysis.ipynb](https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information/blob/main/code/vicky_code/analysis.ipynb)
+    * [analysis.ipynb](code/vicky_code/analysis.ipynb)
 * [data](https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information/tree/main/data)
   * [33_organs.csv](data/33_organs.csv)
   * [grant_agencies.csv](data/grant_agencies.csv)
