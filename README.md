@@ -29,6 +29,8 @@ In data visualization, the geospatial layout and bimodel network were created by
 
 Code used to compute the number of cells per cell type per organ is available at https://github.com/hubmapconsortium/tissue-bar-graphs. 
 
+In order to run the `analysis.ipynb`, clone the `static` branch of https://github.com/hubmapconsortium/tissue-bar-graphs, Run the `analysis.ipynb` notebook in the cloned folder. 
+
 ## Data
 * `33_organs.csv` contains the 33 organs planned for the next HRA release.
 
