@@ -24,7 +24,11 @@ It is structured in the following way:
 ## Code
 In data collection and data preprocessing, CSV data should be downloaded in `Data` and SQL data should be collected based on specific requirements. They should be put into corresponding folders. Use `Clean_funding_name.py` to preprocess funding agencies.
 
-In data analysis, code can be applied to make statistics of data. Use `paper.py` to query the papers that were published in 2018 to 2022 and have these organ words in titles or keywords and were cited at least 10 times; use `country_per_paper.sql` to count the number of papers per each country; use `count_grant_agencies_per_organ.sql` to count the number of funding agencies per organ; use `author_per_paper.sql` to count the number of authors per paper. 
+In data analysis, code can be applied to make statistics of data. 
+- Use `paper.py` to query the papers that were published in 2018 to 2022 and have these organ words in titles or keywords and were cited at least 10 times;
+- Use `country_per_paper.sql` to count the number of papers per each country;
+- Use `count_grant_agencies_per_organ.sql` to count the number of funding agencies per organ;
+- Use `author_per_paper.sql` to count the number of authors per paper. 
 
 In data visualization, the geospatial layout and bimodel network were created by Gephi using the above results csv data. PFnet is applied to Sci2 Tool, freely available at https://sci2.cns.iu.edu.
 
