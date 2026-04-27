@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Scholarly publications and data set evidence for the Human Reference Atlas"
+message: "If you use this supporting information in your research, please cite it using the metadata from this file and the published article."
+authors:
+  - family-names: "Kong"
+    given-names: "Yongxin"
+  - family-names: "Daiya"
+    given-names: "Vicky Amar"
+  - family-names: "Börner"
+    given-names: "Katy"
+repository-code: "https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information"
+repository: "https://github.com/cns-iu/hra-evidence-issi-2023-supporting-information"
+doi: "https://doi.org/10.1162/qss_a_00299"
+url: "https://direct.mit.edu/qss/article/5/1/246/119838/Scholarly-publications-and-data-set-evidence-for"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Kong"
+      given-names: "Yongxin"
+    - family-names: "Daiya"
+      given-names: "Vicky Amar"
+    - family-names: "Börner"
+      given-names: "Katy"
+  title: "Scholarly publications and data set evidence for the Human Reference Atlas"
+  journal: "Quantum Studies: Science and Engineering"
+  volume: 5
+  issue: 1
+  start: 246
+  doi: "10.1162/qss_a_00299"
+  year: 2024
+
